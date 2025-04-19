@@ -1,4 +1,4 @@
-<h1>Hi, I'm Max, an <a href="https://www.linkedin.com/in/maxwell-silver-401634277/">IT Professional</a> 😎 </h1> I most definitely ponder my orb. 🧙‍♂️🔮
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/maxwell-silver-401634277/">Max</a> 😎 </h1> I most definitely ponder my orb. 🧙‍♂️🔮
 
 <h2>👨‍💻 - Information Technology Projects:</h2>
 
