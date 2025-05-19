@@ -1,4 +1,4 @@
-<h1>Hi, I'm Max <a href="https://www.linkedin.com/in/maxwell-silver-401634277/">IT Professional</a> 🧙‍♂️🔮 </h1>
+<h1>Hi, I'm Max, an <a href="https://www.linkedin.com/in/maxwell-silver-401634277/">IT Professional</a> 🧙‍♂️🔮 </h1>
 
 <h2>👨‍💻 - Information Technology Projects:</h2>
 
