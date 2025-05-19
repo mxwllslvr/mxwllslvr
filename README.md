@@ -12,9 +12,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Max | LinkedIn" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Max | X" width="100px" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-1024.png" />][X]
-[<img align="left" alt="Max | Instagram" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Max | LinkedIn" width="75px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Max | X" width="75px" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-1024.png" />][X]
+[<img align="left" alt="Max | Instagram" width="75px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [X]: https://x.com/mxwllslvr
 [instagram]: https://www.instagram.com/fatherhanukkah/
