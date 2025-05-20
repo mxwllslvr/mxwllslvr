@@ -24,8 +24,10 @@ Let’s connect!
 [<img align="left" alt="Max | X" width="75px" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-1024.png" />][X]
 [<img align="left" alt="Max | Instagram" width="75px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Max | Steam" width="75px" src="https://cdn3.iconfinder.com/data/icons/remixicon-logos/24/steam-fill-1024.png" />][steam]
+[<img align="left" alt="Max | Spotify" width="75px" src="https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_spotify-1024.png" />][spotify]
 
 [X]: https://x.com/mxwllslvr
 [instagram]: https://www.instagram.com/fatherhanukkah/
 [linkedin]: https://www.linkedin.com/in/maxwell-silver-401634277/
 [steam]: https://steamcommunity.com/id/mxwllslvr
+[spotify]: https://open.spotify.com/user/msilver88?si=8cba182629714df8
