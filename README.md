@@ -34,17 +34,19 @@ Let’s connect!
 
 <div align="center">
 
-[<img align="center" alt="Max | LinkedIn" width="75px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Max | X" width="75px" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-1024.png" />][X]
-[<img align="center" alt="Max | Instagram" width="75px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="center" alt="Max | Steam" width="75px" src="https://cdn3.iconfinder.com/data/icons/remixicon-logos/24/steam-fill-1024.png" />][steam]
-[<img align="center" alt="Max | Spotify" width="75px" src="https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_spotify-1024.png" />][spotify]
+[<img align="center" alt="Max | LinkedIn" width="75px" src="https://cdn1.iconfinder.com/data/icons/follow-the-herd/512/linkedin_left-1024.png" />][linkedin]
+[<img align="center" alt="Max | X" width="75px" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-1024.png" />][X]
+[<img align="center" alt="Max | Instagram" width="75px" src="https://cdn0.iconfinder.com/data/icons/social-planes-2/512/instagram_512.png" />][Instagram]
+[<img align="center" alt="Max | Discord" width="75px" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_discord-1024.png" />][discord]
+[<img align="center" alt="Max | Steam" width="75px" src="https://cdn4.iconfinder.com/data/icons/bubble-gradient-social-media-1/200/steam-1024.png" />][steam]
+[<img align="center" alt="Max | Spotify" width="75px" src="https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/567/Spotify_Logo_RGB_Green-1024.png" />][spotify]
 
 [X]: https://x.com/mxwllslvr
 [instagram]: https://www.instagram.com/fatherhanukkah/
 [linkedin]: https://www.linkedin.com/in/maxwell-silver-401634277/
 [steam]: https://steamcommunity.com/id/mxwllslvr
 [spotify]: https://open.spotify.com/user/msilver88?si=8cba182629714df8
+[discord]: https://discord.com/users/mxwll.slvr
 
 <br><br>
 
