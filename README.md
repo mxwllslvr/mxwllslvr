@@ -33,3 +33,9 @@ Let’s connect!
 [linkedin]: https://www.linkedin.com/in/maxwell-silver-401634277/
 [steam]: https://steamcommunity.com/id/mxwllslvr
 [spotify]: https://open.spotify.com/user/msilver88?si=8cba182629714df8
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake.svg" />
+</picture>
