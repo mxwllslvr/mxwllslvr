@@ -20,6 +20,16 @@ Let’s connect!
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mxwllslvr/Configuring-On-premises-Active-Directory-within-Azure-VMs/)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mxwllslvr/azure-network-protocols)
 
+<br>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake.svg" />
+</picture>
+</div>
+
 <h2>🤳Connect with me:</h2>
 
 <div align="center">
@@ -36,10 +46,8 @@ Let’s connect!
 [steam]: https://steamcommunity.com/id/mxwllslvr
 [spotify]: https://open.spotify.com/user/msilver88?si=8cba182629714df8
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake.svg" />
-</picture>
+<br><br>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=msilver88)
 
 </div>
