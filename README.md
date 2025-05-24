@@ -1,4 +1,8 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <img width="1200" alt="banner" src= "https://github.com/user-attachments/assets/32401813-03e4-4760-bf3d-0a706c103f68" />
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1>Hi, I'm Max, an <a href="https://www.linkedin.com/in/maxwell-silver-401634277/">IT Professional</a> 🧙‍♂️🖥️ </h1>
 
@@ -21,8 +25,6 @@ Let’s connect!
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mxwllslvr/Configuring-On-premises-Active-Directory-within-Azure-VMs/)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mxwllslvr/azure-network-protocols)
 
-<br>
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake-dark.svg" />
@@ -30,6 +32,10 @@ Let’s connect!
   <img alt="github-snake" src="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake.svg" />
 </picture>
 </div>
+
+<br><br>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h2>🤳Connect with me:</h2>
 
@@ -54,3 +60,5 @@ Let’s connect!
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=msilver88)
 
 </div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
