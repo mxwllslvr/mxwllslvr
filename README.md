@@ -4,7 +4,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1>Hi, I'm Max, an <a href="https://www.linkedin.com/in/maxwell-silver-401634277/">IT Professional</a> 🧙‍♂️🖥️ </h1>
+<h1>Hi, I'm Max, an <a href="www.linkedin.com/in/mxwllslvr">IT Professional</a> 🧙‍♂️🖥️ </h1>
 
 Dynamic professional with diverse experience across multiple industries and a strong technical and mechanical problem-solving foundation.
 
@@ -108,7 +108,7 @@ Let’s connect!
 
 [X]: https://x.com/mxwllslvr
 [instagram]: https://www.instagram.com/fatherhanukkah/
-[linkedin]: https://www.linkedin.com/in/maxwell-silver-401634277/
+[linkedin]: www.linkedin.com/in/mxwllslvr
 [steam]: https://steamcommunity.com/id/mxwllslvr
 [spotify]: https://open.spotify.com/user/msilver88?si=8cba182629714df8
 [discord]: https://discord.com/users/mxwll.slvr
