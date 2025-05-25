@@ -124,14 +124,14 @@ Let’s connect!
 <br>
 
 <div align="center">My Cats: 🍜Noodle & 🌮Taco</div>
-
+<br>
 <div align="center">
   <img src="https://i.imgur.com/H1iyiwS.jpeg" alt="TacoandNoodle" height="400" border="8" style="border-color: white;">
 </div>
-
+<br>
 <div align="center">
 <a href="https://paypal.me/maxslvr">
-  <img src="https://img.shields.io/badge/PayPal-Buy%20me%20a%20treat!-blue?style=for-the-badge&logo=paypal" alt="Buy me a treat">
+  <img src="https://img.shields.io/badge/PayPal-🐈%20🐾%20😸%20Buy%20us%20a%20treat%20please!%20<3%20🐈%20🐾%20😸-blue?style=for-the-badge&logo=paypal" alt="Buy us a treat please!">
 </a>
 </div>
 
