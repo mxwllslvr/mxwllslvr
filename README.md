@@ -41,7 +41,7 @@ Let’s connect!
 <div align="center">
 
 [<img align="center" alt="Max | LinkedIn" width="75px" src="https://cdn1.iconfinder.com/data/icons/follow-the-herd/512/linkedin_left-1024.png" />][linkedin]
-[<img align="center" alt="Max | X" width="75px" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-1024.png" />][X]
+[<img align="center" alt="Max | X" width="75px" src="https://www.zilliondesigns.com/blog/wp-content/uploads/Twitter-New-Logo-X-2023-.jpg" />][X]
 [<img align="center" alt="Max | Instagram" width="75px" src="https://cdn0.iconfinder.com/data/icons/social-planes-2/512/instagram_512.png" />][Instagram]
 [<img align="center" alt="Max | Discord" width="75px" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_discord-1024.png" />][discord]
 [<img align="center" alt="Max | Steam" width="75px" src="https://cdn4.iconfinder.com/data/icons/bubble-gradient-social-media-1/200/steam-1024.png" />][steam]
