@@ -93,9 +93,6 @@ Let’s connect!
 
 </div>
 
-
-###
-
 <br>
 
 <h2>🤳 - Connect with me:</h2>
@@ -116,9 +113,15 @@ Let’s connect!
 [spotify]: https://open.spotify.com/user/msilver88?si=8cba182629714df8
 [discord]: https://discord.com/users/mxwll.slvr
 
+<br>
+
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=msilver88&unique={true|1|on|yes}" alt="Spotify">
+
 </div>
 
 <h2>Other cool stuff:</h2>
+
+<br>
 
 <div align="center">My Cats: 🍜Noodle & 🌮Taco</div>
 
@@ -131,6 +134,16 @@ Let’s connect!
   <img src="https://img.shields.io/badge/PayPal-Buy%20me%20a%20treat!-blue?style=for-the-badge&logo=paypal" alt="Buy me a treat">
 </a>
 </div>
+
+<br><br><br>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+</div>
+
 
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
