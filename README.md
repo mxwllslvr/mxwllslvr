@@ -35,14 +35,10 @@ Let’s connect!
 </div>
 
 <h2>🔧 - Tech Stack:</h2>
-
-<h2 align="center">🛠 Tech Stack</h2>
-
+<br>
 <div align="center">
-
 <table width="100%">
   <tr>
-    
   <td align="center" valign="top" width="33%">
 
    <h3>Languages & Frontend</h3>
@@ -58,7 +54,6 @@ Let’s connect!
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" title="Android" />
 
    </td>
-
     
   <td align="center" valign="top" width="33%">
 
@@ -72,7 +67,6 @@ Let’s connect!
       <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" height="40" alt="Cursor" title="Cursor" />
 
   </td>
-
     
 <td align="center" valign="top" width="33%">
 
@@ -92,6 +86,12 @@ Let’s connect!
 </table>
 
 </div>
+<br>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mxwllslvr&theme=dark&hide_border=false">
+</div>
+<br><br>
 
 <br>
 
@@ -120,9 +120,7 @@ Let’s connect!
 </div>
 
 <h2>Other cool stuff:</h2>
-
 <br>
-
 <div align="center">🍜Noodle & 🌮Taco</div>
 <br>
 <div align="center">
