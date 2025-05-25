@@ -16,6 +16,7 @@ Let’s connect!
 
 <h2>👨‍💻 - Information Technology Projects:</h2>
 
+<b><I><u>Tutorials</b></i></u>
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mxwllslvr/osticket-prereqs/)
   - [osTicket: Post-Installation Configuration](https://github.com/mxwllslvr/osTicket-Post-Install-Configuration)
