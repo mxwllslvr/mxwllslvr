@@ -115,8 +115,6 @@ Let’s connect!
 
 <br>
 
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=msilver88&unique={true|1|on|yes}" alt="Spotify">
-
 </div>
 
 <h2>Other cool stuff:</h2>
