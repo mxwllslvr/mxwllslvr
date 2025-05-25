@@ -116,10 +116,6 @@ Let’s connect!
 [spotify]: https://open.spotify.com/user/msilver88?si=8cba182629714df8
 [discord]: https://discord.com/users/mxwll.slvr
 
-<br><br>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=msilver88)
-
 </div>
 
 <h2>Other cool stuff:</h2>
