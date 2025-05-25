@@ -66,5 +66,12 @@ Let’s connect!
 <div align="center">
   <img src="https://i.imgur.com/H1iyiwS.jpeg" alt="TacoandNoodle" height="400" border="8" style="border-color: white;">
 </div>
+
+<div align="center">
+<a href="https://paypal.me/maxslvr">
+  <img src="https://img.shields.io/badge/PayPal-Buy%20me%20a%20treat!-blue?style=for-the-badge&logo=paypal" alt="Buy me a treat">
+</a>
+</div>
+
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
