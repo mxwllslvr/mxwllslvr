@@ -123,7 +123,7 @@ Let’s connect!
 
 <br>
 
-<div align="center">My Cats: 🍜Noodle & 🌮Taco</div>
+<div align="center">🍜Noodle & 🌮Taco</div>
 <br>
 <div align="center">
   <img src="https://i.imgur.com/H1iyiwS.jpeg" alt="TacoandNoodle" height="400" border="8" style="border-color: white;">
