@@ -27,15 +27,6 @@ Let’s connect!
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mxwllslvr/azure-network-protocols)
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/pacman-contribution-graph.svg">
-</picture>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake.svg" />
