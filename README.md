@@ -35,8 +35,6 @@ Let’s connect!
 
 <br>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <h2>🤳Connect with me:</h2>
 
 <div align="center">
@@ -61,4 +59,12 @@ Let’s connect!
 
 </div>
 
+<h2>Other cool stuff:</h2>
+
+<div align="center">My Cats: 🍜Noodle & 🌮Taco</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/H1iyiwS.jpeg" alt="TacoandNoodle" height="400" border="8" style="border-color: white;">
+</div>
+<br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
