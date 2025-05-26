@@ -17,7 +17,7 @@ Let’s connect!
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines in the Cloud]()
+  - [Creating Virtual Machines in the Cloud](https://github.com/mxwllslvr/creating-virtual-machines-in-the-cloud)
   - [Observing Network Traffic and Network Security Groups (NSGs) Functions]()
   - [Create Active Directory Infrastructure in Azure]()
 - <b>Active Directory</b>
