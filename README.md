@@ -18,15 +18,15 @@ Let’s connect!
 
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/mxwllslvr/creating-virtual-machines-in-the-cloud)
-  - [Observing Network Traffic and Network Security Groups (NSGs) Functions]()
-  - [Create Active Directory Infrastructure in Azure]()
+  - [Observing Network Traffic and Network Security Groups (NSGs) Functions]() (Coming Soon)
+  - [Create Active Directory Infrastructure in Azure]() (Coming Soon)
 - <b>Active Directory</b>
-  - [AD Deployment and Configuration]()
-  - [Creating Users and Group Policy Objects for AD]()
+  - [AD Deployment and Configuration]() (Coming Soon)
+  - [Creating Users and Group Policy Objects for AD]() (Coming Soon)
 - <b>osTicket (Help Desk Ticketing System)</b> 
-  - [osTicket: Prerequisites and Installation]()
-  - [osTicket: Post-Installation Configuration]()
-  - [osTicket: Ticket Lifecycle Examples]()
+  - [osTicket: Prerequisites and Installation]() (Coming Soon)
+  - [osTicket: Post-Installation Configuration]() (Coming Soon)
+  - [osTicket: Ticket Lifecycle Examples]() (Coming Soon)
 
 <div align="center">
 <picture>
