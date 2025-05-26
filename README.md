@@ -14,6 +14,20 @@ Living in North Carolina with my wife Amanda and our cats Taco and Noodle, I’m
 
 Let’s connect!
 
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>Microsoft Azure</b>
+  - [Creating Virtual Machines in the Cloud]()
+  - [Observing Network Traffic and Network Security Groups (NSGs) Functions]()
+  - [Create Active Directory Infrastructure in Azure]()
+- <b>Active Directory</b>
+  - [AD Deployment and Configuration]()
+  - [Creating Users and Group Policy Objects for AD]()
+- <b>osTicket (Help Desk Ticketing System)</b> 
+  - [osTicket: Prerequisites and Installation]()
+  - [osTicket: Post-Installation Configuration]()
+  - [osTicket: Ticket Lifecycle Examples]()
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxwllslvr/mxwllslvr/output/github-snake-dark.svg" />
