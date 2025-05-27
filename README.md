@@ -20,9 +20,11 @@ Let’s connect!
   - [Creating Virtual Machines in the Cloud](https://github.com/mxwllslvr/creating-virtual-machines-in-the-cloud)
   - [Observing Network Traffic and Network Security Groups (NSGs) Functions](https://github.com/mxwllslvr/observing-network-traffic-and-network-security-groups-NSGs-functions)
   - [Create Active Directory Infrastructure in Azure]() (Coming Soon)
+<br/><br/>
 - <b>Active Directory</b>
   - [AD Deployment and Configuration]() (Coming Soon)
   - [Creating Users and Group Policy Objects for AD]() (Coming Soon)
+<br/><br/>
 - <b>osTicket (Help Desk Ticketing System)</b> 
   - [osTicket: Prerequisites and Installation]() (Coming Soon)
   - [osTicket: Post-Installation Configuration]() (Coming Soon)
