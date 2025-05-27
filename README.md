@@ -115,23 +115,26 @@ Let’s connect!
 
 <br>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=msilver88&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 
 <h2>Other cool stuff:</h2>
-<br>
+
+<br/>
 <div align="center">🍜Noodle & 🌮Taco</div>
-<br>
+<br/>
 <div align="center">
   <img src="https://i.imgur.com/H1iyiwS.jpeg" alt="TacoandNoodle" height="400" border="8" style="border-color: white;">
 </div>
-<br>
+<br/>
 <div align="center">
 <a href="https://paypal.me/maxslvr">
   <img src="https://img.shields.io/badge/PayPal-🐈%20🐾%20😸%20Buy%20us%20a%20treat%20please!%20<3%20🐈%20🐾%20😸-blue?style=for-the-badge&logo=paypal" alt="Buy us a treat please!">
 </a>
 </div>
 
-<br><br><br>
+<br/><br/><br/>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
