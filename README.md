@@ -136,7 +136,6 @@ Let’s connect!
 
 <br/><br/><br/>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
@@ -147,8 +146,10 @@ Let’s connect!
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br/>
 
-<div>
+<div align="center">
   
 ![dino](https://github.com/user-attachments/assets/4e768adf-a58c-4ded-9ad8-6e94872189be)
 
 </div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
