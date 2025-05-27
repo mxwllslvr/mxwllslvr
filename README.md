@@ -18,7 +18,7 @@ Let’s connect!
 
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/mxwllslvr/creating-virtual-machines-in-the-cloud)
-  - [Observing Network Traffic and Network Security Groups (NSGs) Functions](https://github.com/mxwllslvr/observing-network-traffic-and-network-security-groups-NSGs-functions) (Under Construction)
+  - [Observing Network Traffic and Network Security Groups (NSGs) Functions](https://github.com/mxwllslvr/observing-network-traffic-and-network-security-groups-NSGs-functions) (In Progress)
   - [Create Active Directory Infrastructure in Azure]() (Coming Soon)
 - <b>Active Directory</b>
   - [AD Deployment and Configuration]() (Coming Soon)
