@@ -143,6 +143,12 @@ Let’s connect!
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </div>
 
-
-<br>
+<br/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<br/>
+
+<div>
+  
+![dino](https://github.com/user-attachments/assets/4e768adf-a58c-4ded-9ad8-6e94872189be)
+
+</div>
