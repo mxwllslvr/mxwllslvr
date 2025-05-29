@@ -110,7 +110,7 @@ Let’s connect!
 
 [X]: https://x.com/mxwllslvr
 [instagram]: https://www.instagram.com/fatherhanukkah/
-[linkedin]: www.linkedin.com/in/mxwllslvr
+[linkedin]: http://www.linkedin.com/in/mxwllslvr
 [steam]: https://steamcommunity.com/id/mxwllslvr
 [spotify]: https://open.spotify.com/user/msilver88?si=8cba182629714df8
 [discord]: https://discord.com/users/mxwll.slvr
