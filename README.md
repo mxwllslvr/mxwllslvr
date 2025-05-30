@@ -22,7 +22,7 @@ Let’s connect!
   - [Establishing Active Directory Infrastructure in Microsoft Azure](https://github.com/mxwllslvr/establishing-active-directory-infrastructure-in-microsoft-azure)
 <br/><br/>
 - <b>Active Directory</b>
-  - [AD Deployment and Configuration]() (Coming Soon)
+  - [Implementing Active Directory on Azure Virtual Machines](https://github.com/mxwllslvr/implementing-active-directory-in-microsoft-azure-virtual-machines)
   - [Creating Users and Group Policy Objects for AD]() (Coming Soon)
 <br/><br/>
 - <b>osTicket (Help Desk Ticketing System)</b> 
