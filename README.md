@@ -23,7 +23,7 @@ Let’s connect!
 <br/><br/>
 - <b>Active Directory</b>
   - [Implementing Active Directory on Azure Virtual Machines](https://github.com/mxwllslvr/implementing-active-directory-in-microsoft-azure-virtual-machines)
-  - [Setting Up User Accounts and Group Policy in Active Directory on Azure VMs]() (Coming Soon)
+  - [Setting Up User Accounts and Group Policy in Active Directory on Azure VMs](https://github.com/mxwllslvr/setting-up-user-accounts-and-group-policy-in-active-directory-on-azure-VMs)
 <br/><br/>
 - <b>osTicket (Help Desk Ticketing System)</b> 
   - [osTicket: Prerequisites and Installation]() (Coming Soon)
