@@ -26,7 +26,7 @@ Let’s connect!
   - [Setting Up User Accounts and Group Policy in Active Directory on Azure VMs](https://github.com/mxwllslvr/setting-up-user-accounts-and-group-policy-in-active-directory-on-azure-VMs)
 <br/><br/>
 - <b>osTicket (Help Desk Ticketing System)</b> 
-  - [osTicket: Prerequisites and Installation]() (Coming Soon)
+  - [osTicket: Prerequisites and Installation](https://github.com/mxwllslvr/osTicket-prerequisites-and-installation)
   - [osTicket: Post-Installation Configuration]() (Coming Soon)
   - [osTicket: Ticket Lifecycle Examples]() (Coming Soon)
 
