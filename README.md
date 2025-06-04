@@ -27,7 +27,7 @@ Let’s connect!
 <br/><br/>
 - <b>osTicket (Help Desk Ticketing System)</b> 
   - [osTicket: Prerequisites and Installation](https://github.com/mxwllslvr/osTicket-prerequisites-and-installation)
-  - [osTicket: Post-Installation Configuration]() (Coming Soon)
+  - [osTicket: Post-Installation Configuration](https://github.com/mxwllslvr/osTicket-post-installation-configuration)
   - [osTicket: Ticket Lifecycle Examples]() (Coming Soon)
 
 <div align="center">
