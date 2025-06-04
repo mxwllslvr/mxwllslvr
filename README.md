@@ -4,7 +4,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1>Hi, I'm Max, an <a href="http://www.linkedin.com/in/mxwllslvr">IT Professional</a> 🧙‍♂️🖥️ </h1>
+<h1>Hi, I'm Max, an <a href="http://www.linkedin.com/in/mxwllslvr">IT Professional</a> 🖥️ </h1>
 
 Dynamic professional with diverse experience across multiple industries and a strong technical and mechanical problem-solving foundation.
 
