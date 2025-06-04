@@ -145,13 +145,13 @@ Let’s connect!
 </div>
 
 <br/><br/>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<br/>
 
 <div align="center">
-  
-![dino](https://github.com/user-attachments/assets/4e768adf-a58c-4ded-9ad8-6e94872189be)
-
-</div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<img src="https://github.com/user-attachments/assets/ffb02bd2-2189-4d90-99b4-c5ef961aa42e" width="100%">
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+</div>
