@@ -8,7 +8,7 @@
 
 Dynamic professional with diverse experience across multiple industries and a strong technical and mechanical problem-solving foundation.
 
-Attempting to transition careers into IT and cloud computing, pursuing certifications like AWS Certified Cloud Practitioner and CompTIA Cloud+ to master cloud services, infrastructure, and best practices. Eager to learn and driven by a passion for technology, I’m eventually seeking a Cloud Associate role where I can contribute to innovative, scalable solutions.
+Skilled in IT and cloud computing, pursuing certifications like AWS Certified Cloud Practitioner and CompTIA Cloud+ to master cloud services, infrastructure, and best practices. Eager to learn and driven by a passion for technology, I’m eventually seeking a Cloud Associate role where I can contribute to innovative, scalable solutions.
 
 Living in North Carolina with my wife Amanda and our cats Taco and Noodle, I’m an avid gamer, musician, and lifelong learner who thrives on tackling exciting new challenges.
 
