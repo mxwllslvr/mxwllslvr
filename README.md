@@ -146,16 +146,12 @@ Let’s connect!
 
 <br/><br/>
 
-<div align="center">
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<br/><br/>
+<div align="center">
 
 <img src="https://github.com/user-attachments/assets/ffb02bd2-2189-4d90-99b4-c5ef961aa42e" width="100%">
 
-<br/><br/>
+</div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-</div>
