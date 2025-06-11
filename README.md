@@ -67,7 +67,7 @@ Let’s connect!
 
    <h3>IDEs & Editors</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
-      <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" height="40" alt="Cursor" title="Cursor" />
+      <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" height="40" alt="Cursor" title="Cursor"/>
 
   </td>
     
@@ -115,13 +115,17 @@ Let’s connect!
 [spotify]: https://open.spotify.com/user/msilver88?si=8cba182629714df8
 [discord]: https://discord.com/users/mxwll.slvr
 
-<br>
+<br/>
+or
+<br/><br/>
 
-![Screenshot 2025-06-11 044850](https://github.com/user-attachments/assets/8de5432b-bb18-4a7f-a838-02b9302367a0)
+<a href="https://qrco.de/bg4Q18">VIЯΓЦДL CФИΓДCΓ FILΞ (VCF)</a>
 
 </div>
 
 <h2>Other cool stuff:</h2>
+
+<br/><br/>
 
 <div align="center">
 
