@@ -1,6 +1,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img width="1200" alt="banner" src= "https://github.com/user-attachments/assets/a8f9e359-35c6-4afe-b271-8dc158330fe3"/>
+<img width="1200" alt="banner" src= "https://github.com/user-attachments/assets/0ae0c3f4-2fa0-4a14-a5d7-57cb64d35078"/>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
