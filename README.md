@@ -125,7 +125,7 @@ or
 
 <h2>Other cool stuff:</h2>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
