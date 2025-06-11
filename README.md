@@ -101,10 +101,6 @@ Let’s connect!
 
 <div align="center">
 
-<br/>
-<a href="https://qrco.de/bg4Q18">Virtual Contact File (VCF)</a>
-<br/><br/>
-
 [<img align="center" alt="Max | LinkedIn" width="75px" src="https://cdn1.iconfinder.com/data/icons/follow-the-herd/512/linkedin_left-1024.png" />][linkedin]
 [<img align="center" alt="Max | X" width="75px" src="https://www.zilliondesigns.com/blog/wp-content/uploads/Twitter-New-Logo-X-2023-.jpg" />][X]
 [<img align="center" alt="Max | Instagram" width="75px" src="https://cdn0.iconfinder.com/data/icons/social-planes-2/512/instagram_512.png" />][Instagram]
