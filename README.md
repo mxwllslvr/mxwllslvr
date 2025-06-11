@@ -117,11 +117,17 @@ Let’s connect!
 
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=msilver88&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+![Screenshot 2025-06-11 044850](https://github.com/user-attachments/assets/8de5432b-bb18-4a7f-a838-02b9302367a0)
 
 </div>
 
 <h2>Other cool stuff:</h2>
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=msilver88&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
 
 <br/>
 <div align="center">🍜Noodle & 🌮Taco</div>
@@ -137,7 +143,6 @@ Let’s connect!
 </div>
 
 <br/><br/>
-
 
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
