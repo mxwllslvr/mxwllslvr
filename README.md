@@ -101,6 +101,10 @@ Let’s connect!
 
 <div align="center">
 
+<br/>
+<a href="https://qrco.de/bg4Q18">VIЯΓЦДL CФИΓДCΓ FILΞ (VCF)</a>
+<br/><br/>
+
 [<img align="center" alt="Max | LinkedIn" width="75px" src="https://cdn1.iconfinder.com/data/icons/follow-the-herd/512/linkedin_left-1024.png" />][linkedin]
 [<img align="center" alt="Max | X" width="75px" src="https://www.zilliondesigns.com/blog/wp-content/uploads/Twitter-New-Logo-X-2023-.jpg" />][X]
 [<img align="center" alt="Max | Instagram" width="75px" src="https://cdn0.iconfinder.com/data/icons/social-planes-2/512/instagram_512.png" />][Instagram]
@@ -116,22 +120,12 @@ Let’s connect!
 [discord]: https://discord.com/users/mxwll.slvr
 
 <br/>
-or
-<br/><br/>
-
-<a href="https://qrco.de/bg4Q18">VIЯΓЦДL CФИΓДCΓ FILΞ (VCF)</a>
-
-</div>
-
-<h2>Other cool stuff:</h2>
-
-<br/>
-
-<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=msilver88&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
+
+<h2>Other cool stuff:</h2>
 
 <br/>
 <div align="center">🍜Noodle & 🌮Taco</div>
