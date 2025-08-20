@@ -107,6 +107,7 @@ Let’s connect!
 [<img align="center" alt="Max | Discord" width="75px" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_discord-1024.png" />][discord]
 [<img align="center" alt="Max | Steam" width="75px" src="https://cdn4.iconfinder.com/data/icons/bubble-gradient-social-media-1/200/steam-1024.png" />][steam]
 [<img align="center" alt="Max | Spotify" width="75px" src="https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/567/Spotify_Logo_RGB_Green-1024.png" />][spotify]
+[<img align="center" alt="Max | Turtle Wow" width="75px" src="https://github.com/user-attachments/assets/81211f60-5ca9-4bd5-a8b3-ac364b4d26d1" />][TurtleWoW]
 
 [X]: https://x.com/mxwllslvr
 [instagram]: https://www.instagram.com/fatherhanukkah/
@@ -114,6 +115,7 @@ Let’s connect!
 [steam]: https://steamcommunity.com/id/mxwllslvr
 [spotify]: https://open.spotify.com/user/msilver88?si=8cba182629714df8
 [discord]: https://discord.com/users/mxwll.slvr
+[TurtleWoW]: https://turtle-wow.org/armory/Nordanaar/Rabbimedivh
 
 <br/>
 
