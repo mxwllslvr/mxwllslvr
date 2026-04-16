@@ -90,11 +90,6 @@ Let’s connect!
 </div>
 <br>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mxwllslvr&theme=dark&hide_border=false">
-</div>
-<br><br>
-
 <br>
 
 <h2>🤳 - Connect with me:</h2>
