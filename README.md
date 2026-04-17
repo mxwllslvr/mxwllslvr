@@ -6,13 +6,11 @@
 
 <h1>Hi, I'm <a href="http://www.linkedin.com/in/mxwllslvr">Max</a> 🖥️ </h1>
 
-Dynamic professional with diverse experience across multiple industries and a strong technical and mechanical problem-solving foundation.
+Dynamic professional with a sharp technical edge and a knack for solving complex mechanical and technical problems across multiple industries.
 
-Skilled in IT and cloud computing, pursuing certifications like AWS Certified Cloud Practitioner and CompTIA Cloud+ to master cloud services, infrastructure, and best practices. Eager to learn and driven by a passion for technology, I’m eventually seeking a Cloud Associate role where I can contribute to innovative, scalable solutions.
+Based in North Carolina with my wife Amanda and our two legendary cats, Taco and Noodle. When I’m not leveling up my cloud skills, you’ll find me gaming hard, making music, or diving into whatever new challenge catches my eye. Lifelong learner, perpetual tinkerer, and always down for the next big thing.
 
-Living in North Carolina with my wife Amanda and our cats Taco and Noodle, I’m an avid gamer, musician, and lifelong learner who thrives on tackling exciting new challenges.
-
-Let’s connect!
+Let’s connect.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
